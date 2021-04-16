@@ -1,5 +1,5 @@
-let JohnTeamScore = (110+120+103)/3;
-let MikeTeamScore = (116+94+123)/3;
+let JohnTeamScore = (10520+103)/3;
+let MikeTeamScore = (118+123)/3;
 ​
 if (JohnTeamScore > MikeTeamScore) {
 ​
