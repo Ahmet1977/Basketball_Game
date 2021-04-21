@@ -10,7 +10,7 @@ if (JohnTeamScore > MikeTeamScore) {
 ​
 } else {
 ​
-    console.log('There is draw')
+    console.log('There is a draw')
 }
     let MaryTeam = (97+137+105)/3;
 ​
