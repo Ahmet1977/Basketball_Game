@@ -1,32 +1,32 @@
 let JohnTeamScore = (10520+103)/3;
 let MikeTeamScore = (118+123)/3;
-​
+
 if (JohnTeamScore > MikeTeamScore) {
-​
+
     console.log(`John's team wins in average ${JohnTeamScore}`)
 } else if (MikeTeamScore > JohnTeamScore) {
   
     console.log(`Mike's team wins in average ${MikeTeamScore}`)
-​
+
 } else {
-​
+
     console.log('There is a draw')
 }
     let MaryTeam = (97+137+105)/3;
-​
+
 if (JohnTeamScore > MikeTeamScore && JohnTeamScore > MaryTeam) {
-​
+
     console.log(`John's team wins in average ${JohnTeamScore}`)
     
 } else if (MikeTeamScore > JohnTeamScore && MikeTeamScore > MaryTeam) {
   
     console.log(`Mike's team wins in average ${MikeTeamScore}`)
-​
+
 } else if (MaryTeam > JohnTeamScore && MaryTeam > MikeTeamScore) {
-​
+
     console.log(`Mary's team wins in average ${MaryTeam}`)
-​
+
 } else  {
-​
+
     console.log('There is draw')
 }
